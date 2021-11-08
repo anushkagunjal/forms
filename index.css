@@ -1,0 +1,25 @@
+h1{
+    color: white;
+   background-color:rgb(167, 54, 78);
+   padding-left: 30px;
+   text-align: center;
+}
+input{
+    border-color: black;
+    border-width: 2px;
+}
+button{
+   background-color:rgb(167, 54, 78);
+   color: white;
+   text-align: center;
+   margin-left: 30px;
+   padding: 5px 10px;
+   font-size: 16px;
+}
+form{
+   background-color: rgb(252, 221, 222);
+}
+select{
+   border-color: black;
+   border-width: 2px;
+}
